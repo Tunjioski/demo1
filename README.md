@@ -1,5 +1,3 @@
-# demo1
-Just a demo you know
 # https://tea.xyz/what-is-this-file
 ---
 version: 1.0.0
